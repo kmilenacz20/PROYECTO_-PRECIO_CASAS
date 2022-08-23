@@ -5,6 +5,7 @@
 # DATOS
 la base de datos que vamos a utilizar será de  kanggle que habla sobre el precio de las viviendas, al cual se puede acceder en el siguiente enlace :https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 # NOTEBOOK
+Este es el notebook que estamos utilizando https://colab.research.google.com/drive/1HLcA14odVvcUes1_L3fDTsvhOvWw6B2f
 # COMANDOS
 
 # VIDEOS
