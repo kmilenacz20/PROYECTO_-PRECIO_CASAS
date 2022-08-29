@@ -9,3 +9,4 @@ Este es el notebook que estamos utilizando https://colab.research.google.com/dri
 # COMANDOS
 
 # VIDEOS
+https://youtu.be/kc1CdKJciYk
