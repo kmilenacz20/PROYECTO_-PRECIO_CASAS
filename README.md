@@ -9,4 +9,6 @@ Este es el notebook que estamos utilizando https://colab.research.google.com/dri
 # COMANDOS
 
 # VIDEOS
+# Entrega 2
 https://youtu.be/kc1CdKJciYk
+# Entrega final
